@@ -1,0 +1,2 @@
+30/05- AVALIAÇÃO (Entrada, Saída, Operadores Relacionais, Aritméticos e Lógicos, 
+Condicionais simples, compostas e aninhadas, Loops (com contador e condicionais) simples e aninhados) 
